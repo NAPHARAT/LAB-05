@@ -23,7 +23,8 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
-
+ จากการทดลอง เมื่อพิมพ์โค้ดตามข้างต้นแล้วรัน จะมีหน้าต่างสีดำขึ้นมาแสดงคำว่า This is text 1. เว้นบรรทัด  This is text 2. เว้นบรรทัด  This is text 3. เว้นบรรทัด Press any key continue. . . ซึ่งรูปแบบการแสดงผลของประโยคเหมือนกับแลป4 ดีงภาพ
+![]()
 
 
 
