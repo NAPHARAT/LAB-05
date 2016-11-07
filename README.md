@@ -102,7 +102,7 @@
 
 จากการทดลอง พบว่ามีการแสดงผลเลข 123456789 ในรูปแบบที่แตกต่างกัน ดังภาพ
   
- ![](https://github.com/NAPHARAT/LAB-05/blob/master/img/Capture5.2.JPG)
+ ![](https://github.com/NAPHARAT/LAB-05/blob/master/img/Capture5.2edit.JPG)
 
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
