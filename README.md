@@ -83,7 +83,7 @@
 4). ทดลองเรื่องการกำหนดรูปแบบของอาร์กิวเมนต์
   4.1). แก้โปรแกรมตามรูปด้านล่างนี้
 
-  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
+  ![](https://github.com/NAPHARAT/LAB-05/blob/master/img/Capture6.JPG)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
 
