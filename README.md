@@ -83,14 +83,14 @@
 4). ทดลองเรื่องการกำหนดรูปแบบของอาร์กิวเมนต์
   4.1). แก้โปรแกรมตามรูปด้านล่างนี้
 
-  ![](https://github.com/NAPHARAT/LAB-05/blob/master/img/Capture6.JPG)
+  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
 
 
 จากการทดลอง พบว่ามีการแสดงผลเลข 123456789 ในรูปแบบที่แตกต่างกัน ดังภาพ
   
- ![](https://github.com/NAPHARAT/LAB-05/blob/master/img/Capture4.JPG) 
+ ![](https://github.com/NAPHARAT/LAB-05/blob/master/img/Capture6.JPG) 
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
   5.1). แก้โปรแกรมตามรูปด้านล่างนี้
